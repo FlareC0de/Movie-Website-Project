@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Black Crown Chair",
+        "price": 200,
+        "image": "img/chair1.png"
+    },
+    {
+        "id": 2,
+        "name": "Funky Chair",
+        "price": 200,
+        "image": "img/chair2.png"
+    },
+    {
+        "id": 3,
+        "name": "Coolest Chair",
+        "price": 150,
+        "image": "img/chair3.png"
+    },
+    {
+        "id": 4,
+        "name": "What the Chair",
+        "price": 350,
+        "image": "img/chair4.png"
+    },
+    {
+        "id": 5,
+        "name": "Whose Seat is it",
+        "price": 250,
+        "image": "img/chair5.png"
+    },
+    {
+        "id": 6,
+        "name": "Flea Market Apparel",
+        "price": 350,
+        "image": "img/chair6.png"
+    },
+    {
+        "id": 7,
+        "name": "Seat in the Sky",
+        "price": 1050,
+        "image": "img/chair7.png"
+    }
+]
